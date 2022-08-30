@@ -1,4 +1,4 @@
-# Please see https://github.com/renovatebot/renovate/issues/17493 for context.
+# Please see https://github.com/renovatebot/renovate/issues/17498 for context.
 
 # New default form, skipped.
 http_archive(
